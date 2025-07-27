@@ -1,2 +1,28 @@
-/.metadata/
-/target/
+# Ignore target directory (Maven output)
+target/
+
+# Ignore compiled class files
+*.class
+
+# Ignore Maven build directories
+**/classes/
+**/maven-archiver/
+**/maven-status/
+
+# Ignore specific JAR files
+*.jar
+
+# Optional: ignore original JAR backups if any
+*.jar.original
+
+# Ignore logs (optional)
+*.log
+
+# Ignore IDE config files
+*.iml
+.idea/
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
