@@ -1,6 +1,0 @@
-com/sms/StudentManagementSystemApplication.class
-com/sms/model/Student.class
-com/sms/service/StudentService.class
-com/sms/service/StudentServiceImpl.class
-com/sms/repository/StudentRepository.class
-com/sms/controller/StudentController.class
